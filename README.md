@@ -45,7 +45,7 @@ Real-world references used throughout this handbook: **MOSIP** (open-source NBIS
 |---|---------|--------|
 | 1 | What is NBIS? | ✅ Complete |
 | 2 | Identity Management Fundamentals | ✅ Complete |
-| 3 | Government Identity Ecosystem | ⬜ Pending |
+| 3 | Government Identity Ecosystem | ✅ Complete|
 | 4 | Citizen Lifecycle | ⬜ Pending |
 | 5 | Stakeholders | ⬜ Pending |
 
