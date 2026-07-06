@@ -54,8 +54,8 @@ Real-world references used throughout this handbook: **MOSIP** (open-source NBIS
 ### Part II — System Architecture
 | # | Chapter | Status |
 |---|---------|--------|
-| 6 | Overall NBIS Architecture | ⬜ Pending |
-| 7 | Microservices | ⬜ Pending |
+| 6 | Overall NBIS Architecture | ✅ Complete |
+| 7 | Microservices | ✅ Complete |
 | 8 | API Gateway | ⬜ Pending |
 | 9 | Authentication | ⬜ Pending |
 | 10 | Authorization (RBAC) | ⬜ Pending |
