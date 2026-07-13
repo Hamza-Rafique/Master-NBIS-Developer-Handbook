@@ -64,7 +64,7 @@ Real-world references used throughout this handbook: **MOSIP** (open-source NBIS
 | 13 | Service Discovery |  ✅ Complete |
 | 14 | Caching | ✅ Complete|
 | 15 | High Availability | ✅ Complete |
-| 16 | Disaster Recovery | ⬜ Pending |
+| 16 | Disaster Recovery |✅ Complete |
 
 ---
 
