@@ -71,7 +71,7 @@ Real-world references used throughout this handbook: **MOSIP** (open-source NBIS
 ### Part III — Enrollment
 | # | Chapter | Status |
 |---|---------|--------|
-| 17 | Enrollment Workflow | ⬜ Pending |
+| 17 | Enrollment Workflow | ✅ Complete |
 | 18 | Demographic Capture | ⬜ Pending |
 | 19 | Document Verification | ⬜ Pending |
 | 20 | Fingerprint Capture | ⬜ Pending |
