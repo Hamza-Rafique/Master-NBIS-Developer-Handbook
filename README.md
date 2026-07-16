@@ -73,7 +73,7 @@ Real-world references used throughout this handbook: **MOSIP** (open-source NBIS
 |---|---------|--------|
 | 17 | Enrollment Workflow | ✅ Complete |
 | 18 | Demographic Capture | ✅ Complete |
-| 19 | Document Verification | ⬜ Pending |
+| 19 | Document Verification | ✅ Complete |
 | 20 | Fingerprint Capture | ⬜ Pending |
 | 21 | Face Capture | ⬜ Pending |
 | 22 | Iris Capture | ⬜ Pending |
